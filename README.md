@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/37b8b856-6c18-4025-b72e-ee73038b453b)
+
 # 💫 About Me:
 👋 Hey there!<br>I’m a passionate Computer Science student with a curious mind and big dreams. Currently on a mission to turn ideas into impactful innovation.<br><br>💻 What I’m Learning<br>📚 Data Structures & Algorithms (Java)<br>🔍 Data Science fundamentals<br>🌐 Exploring Web3 Development & blockchain tech<br><br>🚀 What Drives Me<br>💡 Fascinated by how tech transforms the world<br>💼 Aspiring entrepreneur — eager to build solutions that matter<br>📈 Always leveling up and learning something new<br>🎮 Life Beyond Code<br>🎧 Music lover & headphone philosopher<br>🎮 Gamer when I’m off-duty<br>🌍 Love discovering new places & moments<br><br>🔥 Motto<br>Build. Learn. Evolve. Repeat.<br>This is just the beginning.<br><br><br>
 
